@@ -1,0 +1,766 @@
+Indicator,Year,Geography,FIPS,Cases,Rate per 100000
+HIV diagnoses,2008,Alabama,1,701,18.1
+HIV diagnoses,2009,Alabama,1,686,17.6
+HIV diagnoses,2010,Alabama,1,685,17.2
+HIV diagnoses,2011,Alabama,1,672,16.8
+HIV diagnoses,2012,Alabama,1,662,16.5
+HIV diagnoses,2013,Alabama,1,627,15.5
+HIV diagnoses,2014,Alabama,1,660,16.3
+HIV diagnoses,2015,Alabama,1,665,16.3
+HIV diagnoses,2016,Alabama,1,653,16
+HIV diagnoses,2017,Alabama,1,647,15.8
+HIV diagnoses,2018,Alabama,1,604,14.7
+HIV diagnoses,2019,Alabama,1,635,15.4
+HIV diagnoses,2020 (COVID-19 Pandemic),Alabama,1,585,14.1
+HIV diagnoses,2021,Alabama,1,507,Data not available
+HIV diagnoses,2022,Alabama,1,248,Data not available
+HIV diagnoses,2008,Alaska,2,39,7
+HIV diagnoses,2009,Alaska,2,21,3.7
+HIV diagnoses,2010,Alaska,2,36,6.2
+HIV diagnoses,2011,Alaska,2,23,3.9
+HIV diagnoses,2012,Alaska,2,28,4.7
+HIV diagnoses,2013,Alaska,2,23,3.8
+HIV diagnoses,2014,Alaska,2,37,6.2
+HIV diagnoses,2015,Alaska,2,25,4.2
+HIV diagnoses,2016,Alaska,2,37,6.1
+HIV diagnoses,2017,Alaska,2,30,5
+HIV diagnoses,2018,Alaska,2,23,3.8
+HIV diagnoses,2019,Alaska,2,27,4.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Alaska,2,29,4.8
+HIV diagnoses,2021,Alaska,2,30,Data not available
+HIV diagnoses,2022,Alaska,2,16,Data not available
+HIV diagnoses,2008,Arizona,4,681,13
+HIV diagnoses,2009,Arizona,4,639,12
+HIV diagnoses,2010,Arizona,4,615,11.8
+HIV diagnoses,2011,Arizona,4,564,10.6
+HIV diagnoses,2012,Arizona,4,618,11.5
+HIV diagnoses,2013,Arizona,4,681,12.5
+HIV diagnoses,2014,Arizona,4,736,13.2
+HIV diagnoses,2015,Arizona,4,690,12.2
+HIV diagnoses,2016,Arizona,4,714,12.4
+HIV diagnoses,2017,Arizona,4,720,12.3
+HIV diagnoses,2018,Arizona,4,752,12.5
+HIV diagnoses,2019,Arizona,4,747,12.2
+HIV diagnoses,2020 (COVID-19 Pandemic),Arizona,4,662,10.6
+HIV diagnoses,2021,Arizona,4,785,Data not available
+HIV diagnoses,2022,Arizona,4,608,Data not available
+HIV diagnoses,2008,Arkansas,5,232,9.8
+HIV diagnoses,2009,Arkansas,5,275,11.6
+HIV diagnoses,2010,Arkansas,5,230,9.6
+HIV diagnoses,2011,Arkansas,5,237,9.8
+HIV diagnoses,2012,Arkansas,5,248,10.2
+HIV diagnoses,2013,Arkansas,5,261,10.7
+HIV diagnoses,2014,Arkansas,5,309,12.6
+HIV diagnoses,2015,Arkansas,5,271,11
+HIV diagnoses,2016,Arkansas,5,314,12.6
+HIV diagnoses,2017,Arkansas,5,287,11.5
+HIV diagnoses,2018,Arkansas,5,286,11.4
+HIV diagnoses,2019,Arkansas,5,289,11.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Arkansas,5,242,9.6
+HIV diagnoses,2021,Arkansas,5,341,Data not available
+HIV diagnoses,2022,Arkansas,5,238,Data not available
+HIV diagnoses,2008,California,6,"5,708",19.1
+HIV diagnoses,2009,California,6,"5,408",17.9
+HIV diagnoses,2010,California,6,"5,260",17.1
+HIV diagnoses,2011,California,6,"5,022",16.2
+HIV diagnoses,2012,California,6,"5,031",16
+HIV diagnoses,2013,California,6,"4,677",14.8
+HIV diagnoses,2014,California,6,"5,112",16
+HIV diagnoses,2015,California,6,"5,041",15.6
+HIV diagnoses,2016,California,6,"5,092",15.6
+HIV diagnoses,2017,California,6,"4,839",14.7
+HIV diagnoses,2018,California,6,"4,749",14.4
+HIV diagnoses,2019,California,6,"4,454",13.5
+HIV diagnoses,2020 (COVID-19 Pandemic),California,6,"3,924",11.9
+HIV diagnoses,2021,California,6,"4,246",Data not available
+HIV diagnoses,2022,California,6,"2,408",Data not available
+HIV diagnoses,2008,Colorado,8,445,11
+HIV diagnoses,2009,Colorado,8,371,9
+HIV diagnoses,2010,Colorado,8,423,10.2
+HIV diagnoses,2011,Colorado,8,361,8.6
+HIV diagnoses,2012,Colorado,8,369,8.6
+HIV diagnoses,2013,Colorado,8,307,7
+HIV diagnoses,2014,Colorado,8,378,8.5
+HIV diagnoses,2015,Colorado,8,376,8.3
+HIV diagnoses,2016,Colorado,8,421,9.1
+HIV diagnoses,2017,Colorado,8,434,9.2
+HIV diagnoses,2018,Colorado,8,403,8.4
+HIV diagnoses,2019,Colorado,8,465,9.6
+HIV diagnoses,2020 (COVID-19 Pandemic),Colorado,8,324,6.6
+HIV diagnoses,2021,Colorado,8,408,Data not available
+HIV diagnoses,2022,Colorado,8,296,Data not available
+HIV diagnoses,2008,Connecticut,9,346,11.8
+HIV diagnoses,2009,Connecticut,9,341,11.6
+HIV diagnoses,2010,Connecticut,9,386,12.8
+HIV diagnoses,2011,Connecticut,9,347,11.5
+HIV diagnoses,2012,Connecticut,9,287,9.4
+HIV diagnoses,2013,Connecticut,9,325,10.6
+HIV diagnoses,2014,Connecticut,9,295,9.6
+HIV diagnoses,2015,Connecticut,9,275,9
+HIV diagnoses,2016,Connecticut,9,256,8.4
+HIV diagnoses,2017,Connecticut,9,274,8.9
+HIV diagnoses,2018,Connecticut,9,259,8.4
+HIV diagnoses,2019,Connecticut,9,212,6.9
+HIV diagnoses,2020 (COVID-19 Pandemic),Connecticut,9,171,5.6
+HIV diagnoses,2021,Connecticut,9,231,Data not available
+HIV diagnoses,2022,Connecticut,9,121,Data not available
+HIV diagnoses,2008,Delaware,10,153,21
+HIV diagnoses,2009,Delaware,10,150,20.4
+HIV diagnoses,2010,Delaware,10,123,16.3
+HIV diagnoses,2011,Delaware,10,113,14.9
+HIV diagnoses,2012,Delaware,10,136,17.7
+HIV diagnoses,2013,Delaware,10,110,14.1
+HIV diagnoses,2014,Delaware,10,114,14.5
+HIV diagnoses,2015,Delaware,10,104,13.1
+HIV diagnoses,2016,Delaware,10,111,13.8
+HIV diagnoses,2017,Delaware,10,125,15.4
+HIV diagnoses,2018,Delaware,10,91,11.1
+HIV diagnoses,2019,Delaware,10,94,11.3
+HIV diagnoses,2020 (COVID-19 Pandemic),Delaware,10,93,11.1
+HIV diagnoses,2021,Delaware,10,80,Data not available
+HIV diagnoses,2022,Delaware,10,83,Data not available
+HIV diagnoses,2008,District of Columbia,11,"1,029",202.6
+HIV diagnoses,2009,District of Columbia,11,821,159.1
+HIV diagnoses,2010,District of Columbia,11,788,148.4
+HIV diagnoses,2011,District of Columbia,11,632,116.5
+HIV diagnoses,2012,District of Columbia,11,571,103.1
+HIV diagnoses,2013,District of Columbia,11,488,86.4
+HIV diagnoses,2014,District of Columbia,11,412,71.8
+HIV diagnoses,2015,District of Columbia,11,369,63.2
+HIV diagnoses,2016,District of Columbia,11,351,59.3
+HIV diagnoses,2017,District of Columbia,11,316,52.8
+HIV diagnoses,2018,District of Columbia,11,280,46.4
+HIV diagnoses,2019,District of Columbia,11,250,41.2
+HIV diagnoses,2020 (COVID-19 Pandemic),District of Columbia,11,197,32.3
+HIV diagnoses,2021,District of Columbia,11,193,Data not available
+HIV diagnoses,2022,District of Columbia,11,122,Data not available
+HIV diagnoses,2008,Florida,12,"5,762",37.2
+HIV diagnoses,2009,Florida,12,"5,028",32.2
+HIV diagnoses,2010,Florida,12,"4,632",28.9
+HIV diagnoses,2011,Florida,12,"4,568",28.2
+HIV diagnoses,2012,Florida,12,"4,381",26.6
+HIV diagnoses,2013,Florida,12,"4,298",25.7
+HIV diagnoses,2014,Florida,12,"4,478",26.4
+HIV diagnoses,2015,Florida,12,"4,593",26.6
+HIV diagnoses,2016,Florida,12,"4,659",26.4
+HIV diagnoses,2017,Florida,12,"4,558",25.4
+HIV diagnoses,2018,Florida,12,"4,515",24.8
+HIV diagnoses,2019,Florida,12,"4,361",23.6
+HIV diagnoses,2020 (COVID-19 Pandemic),Florida,12,"3,408",18.2
+HIV diagnoses,2021,Florida,12,"4,556",Data not available
+HIV diagnoses,2022,Florida,12,"4,106",Data not available
+HIV diagnoses,2008,Georgia,13,"3,149",40.2
+HIV diagnoses,2009,Georgia,13,"2,910",36.7
+HIV diagnoses,2010,Georgia,13,"2,604",32.9
+HIV diagnoses,2011,Georgia,13,"2,626",32.8
+HIV diagnoses,2012,Georgia,13,"2,577",31.8
+HIV diagnoses,2013,Georgia,13,"2,326",28.4
+HIV diagnoses,2014,Georgia,13,"2,373",28.6
+HIV diagnoses,2015,Georgia,13,"2,634",31.4
+HIV diagnoses,2016,Georgia,13,"2,523",29.6
+HIV diagnoses,2017,Georgia,13,"2,606",30.2
+HIV diagnoses,2018,Georgia,13,"2,486",28.5
+HIV diagnoses,2019,Georgia,13,"2,407",27.2
+HIV diagnoses,2020 (COVID-19 Pandemic),Georgia,13,"1,977",22.1
+HIV diagnoses,2021,Georgia,13,"2,181",Data not available
+HIV diagnoses,2022,Georgia,13,"1,611",Data not available
+HIV diagnoses,2008,Hawaii,15,81,7.5
+HIV diagnoses,2009,Hawaii,15,84,7.8
+HIV diagnoses,2010,Hawaii,15,101,8.8
+HIV diagnoses,2011,Hawaii,15,79,6.8
+HIV diagnoses,2012,Hawaii,15,82,7
+HIV diagnoses,2013,Hawaii,15,95,8
+HIV diagnoses,2014,Hawaii,15,98,8.3
+HIV diagnoses,2015,Hawaii,15,117,9.8
+HIV diagnoses,2016,Hawaii,15,76,6.3
+HIV diagnoses,2017,Hawaii,15,76,6.3
+HIV diagnoses,2018,Hawaii,15,72,6
+HIV diagnoses,2019,Hawaii,15,64,5.4
+HIV diagnoses,2020 (COVID-19 Pandemic),Hawaii,15,51,4.3
+HIV diagnoses,2021,Hawaii,15,64,Data not available
+HIV diagnoses,2022,Hawaii,15,34,Data not available
+HIV diagnoses,2008,Idaho,16,49,4
+HIV diagnoses,2009,Idaho,16,48,3.9
+HIV diagnoses,2010,Idaho,16,45,3.6
+HIV diagnoses,2011,Idaho,16,35,2.8
+HIV diagnoses,2012,Idaho,16,36,2.8
+HIV diagnoses,2013,Idaho,16,25,1.9
+HIV diagnoses,2014,Idaho,16,21,1.6
+HIV diagnoses,2015,Idaho,16,40,3
+HIV diagnoses,2016,Idaho,16,46,3.4
+HIV diagnoses,2017,Idaho,16,45,3.2
+HIV diagnoses,2018,Idaho,16,37,2.6
+HIV diagnoses,2019,Idaho,16,33,2.2
+HIV diagnoses,2020 (COVID-19 Pandemic),Idaho,16,32,2.1
+HIV diagnoses,2021,Idaho,16,55,Data not available
+HIV diagnoses,2022,Idaho,16,22,Data not available
+HIV diagnoses,2008,Illinois,17,"1,781",16.9
+HIV diagnoses,2009,Illinois,17,"1,712",16.1
+HIV diagnoses,2010,Illinois,17,"1,644",15.5
+HIV diagnoses,2011,Illinois,17,"1,605",15
+HIV diagnoses,2012,Illinois,17,"1,643",15.4
+HIV diagnoses,2013,Illinois,17,"1,583",14.7
+HIV diagnoses,2014,Illinois,17,"1,531",14.2
+HIV diagnoses,2015,Illinois,17,"1,545",14.4
+HIV diagnoses,2016,Illinois,17,"1,476",13.7
+HIV diagnoses,2017,Illinois,17,"1,372",12.8
+HIV diagnoses,2018,Illinois,17,"1,369",12.8
+HIV diagnoses,2019,Illinois,17,"1,257",11.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Illinois,17,"1,096",10.3
+HIV diagnoses,2021,Illinois,17,"1,083",Data not available
+HIV diagnoses,2022,Illinois,17,651,Data not available
+HIV diagnoses,2008,Indiana,18,462,8.8
+HIV diagnoses,2009,Indiana,18,460,8.7
+HIV diagnoses,2010,Indiana,18,483,9
+HIV diagnoses,2011,Indiana,18,469,8.7
+HIV diagnoses,2012,Indiana,18,486,9
+HIV diagnoses,2013,Indiana,18,474,8.7
+HIV diagnoses,2014,Indiana,18,465,8.5
+HIV diagnoses,2015,Indiana,18,633,11.5
+HIV diagnoses,2016,Indiana,18,486,8.8
+HIV diagnoses,2017,Indiana,18,515,9.3
+HIV diagnoses,2018,Indiana,18,511,9.2
+HIV diagnoses,2019,Indiana,18,486,8.7
+HIV diagnoses,2020 (COVID-19 Pandemic),Indiana,18,433,7.7
+HIV diagnoses,2021,Indiana,18,528,Data not available
+HIV diagnoses,2022,Indiana,18,406,Data not available
+HIV diagnoses,2008,Iowa,19,97,3.9
+HIV diagnoses,2009,Iowa,19,123,4.9
+HIV diagnoses,2010,Iowa,19,113,4.5
+HIV diagnoses,2011,Iowa,19,113,4.4
+HIV diagnoses,2012,Iowa,19,117,4.6
+HIV diagnoses,2013,Iowa,19,119,4.6
+HIV diagnoses,2014,Iowa,19,94,3.6
+HIV diagnoses,2015,Iowa,19,123,4.7
+HIV diagnoses,2016,Iowa,19,132,5.1
+HIV diagnoses,2017,Iowa,19,125,4.8
+HIV diagnoses,2018,Iowa,19,114,4.3
+HIV diagnoses,2019,Iowa,19,100,3.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Iowa,19,100,3.8
+HIV diagnoses,2021,Iowa,19,124,Data not available
+HIV diagnoses,2022,Iowa,19,74,Data not available
+HIV diagnoses,2008,Kansas,20,138,6
+HIV diagnoses,2009,Kansas,20,152,6.6
+HIV diagnoses,2010,Kansas,20,136,5.8
+HIV diagnoses,2011,Kansas,20,136,5.8
+HIV diagnoses,2012,Kansas,20,151,6.4
+HIV diagnoses,2013,Kansas,20,146,6.2
+HIV diagnoses,2014,Kansas,20,130,5.5
+HIV diagnoses,2015,Kansas,20,154,6.4
+HIV diagnoses,2016,Kansas,20,149,6.2
+HIV diagnoses,2017,Kansas,20,120,5
+HIV diagnoses,2018,Kansas,20,157,6.5
+HIV diagnoses,2019,Kansas,20,132,5.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Kansas,20,138,5.7
+HIV diagnoses,2021,Kansas,20,154,Data not available
+HIV diagnoses,2022,Kansas,20,93,Data not available
+HIV diagnoses,2008,Kentucky,21,347,9.7
+HIV diagnoses,2009,Kentucky,21,343,9.6
+HIV diagnoses,2010,Kentucky,21,326,9
+HIV diagnoses,2011,Kentucky,21,306,8.4
+HIV diagnoses,2012,Kentucky,21,361,9.9
+HIV diagnoses,2013,Kentucky,21,354,9.6
+HIV diagnoses,2014,Kentucky,21,341,9.2
+HIV diagnoses,2015,Kentucky,21,341,9.2
+HIV diagnoses,2016,Kentucky,21,338,9.1
+HIV diagnoses,2017,Kentucky,21,367,9.8
+HIV diagnoses,2018,Kentucky,21,378,10.1
+HIV diagnoses,2019,Kentucky,21,328,8.7
+HIV diagnoses,2020 (COVID-19 Pandemic),Kentucky,21,300,8
+HIV diagnoses,2021,Kentucky,21,392,Data not available
+HIV diagnoses,2022,Kentucky,21,271,Data not available
+HIV diagnoses,2008,Louisiana,22,"1,062",29.1
+HIV diagnoses,2009,Louisiana,22,"1,173",31.9
+HIV diagnoses,2010,Louisiana,22,"1,106",29.6
+HIV diagnoses,2011,Louisiana,22,"1,186",31.5
+HIV diagnoses,2012,Louisiana,22,"1,018",26.8
+HIV diagnoses,2013,Louisiana,22,"1,119",29.3
+HIV diagnoses,2014,Louisiana,22,"1,191",31
+HIV diagnoses,2015,Louisiana,22,"1,090",28.2
+HIV diagnoses,2016,Louisiana,22,"1,106",28.6
+HIV diagnoses,2017,Louisiana,22,989,25.6
+HIV diagnoses,2018,Louisiana,22,957,24.7
+HIV diagnoses,2019,Louisiana,22,880,22.7
+HIV diagnoses,2020 (COVID-19 Pandemic),Louisiana,22,722,18.7
+HIV diagnoses,2021,Louisiana,22,932,Data not available
+HIV diagnoses,2022,Louisiana,22,682,Data not available
+HIV diagnoses,2008,Maine,23,45,4
+HIV diagnoses,2009,Maine,23,56,5
+HIV diagnoses,2010,Maine,23,55,4.8
+HIV diagnoses,2011,Maine,23,49,4.3
+HIV diagnoses,2012,Maine,23,49,4.3
+HIV diagnoses,2013,Maine,23,35,3.1
+HIV diagnoses,2014,Maine,23,60,5.2
+HIV diagnoses,2015,Maine,23,47,4.1
+HIV diagnoses,2016,Maine,23,53,4.6
+HIV diagnoses,2017,Maine,23,29,2.5
+HIV diagnoses,2018,Maine,23,31,2.7
+HIV diagnoses,2019,Maine,23,30,2.6
+HIV diagnoses,2020 (COVID-19 Pandemic),Maine,23,16,1.4
+HIV diagnoses,2021,Maine,23,30,Data not available
+HIV diagnoses,2022,Maine,23,26,Data not available
+HIV diagnoses,2008,Maryland,24,"1,999",42.6
+HIV diagnoses,2009,Maryland,24,"1,669",35.3
+HIV diagnoses,2010,Maryland,24,"1,722",35.7
+HIV diagnoses,2011,Maryland,24,"1,409",28.9
+HIV diagnoses,2012,Maryland,24,"1,307",26.5
+HIV diagnoses,2013,Maryland,24,"1,291",26
+HIV diagnoses,2014,Maryland,24,"1,231",24.6
+HIV diagnoses,2015,Maryland,24,"1,171",23.3
+HIV diagnoses,2016,Maryland,24,"1,093",21.7
+HIV diagnoses,2017,Maryland,24,"1,020",20.1
+HIV diagnoses,2018,Maryland,24,990,19.5
+HIV diagnoses,2019,Maryland,24,915,18
+HIV diagnoses,2020 (COVID-19 Pandemic),Maryland,24,706,13.8
+HIV diagnoses,2021,Maryland,24,760,Data not available
+HIV diagnoses,2022,Maryland,24,516,Data not available
+HIV diagnoses,2008,Massachusetts,25,741,13.4
+HIV diagnoses,2009,Massachusetts,25,679,12.2
+HIV diagnoses,2010,Massachusetts,25,700,12.6
+HIV diagnoses,2011,Massachusetts,25,672,11.9
+HIV diagnoses,2012,Massachusetts,25,704,12.4
+HIV diagnoses,2013,Massachusetts,25,668,11.7
+HIV diagnoses,2014,Massachusetts,25,649,11.2
+HIV diagnoses,2015,Massachusetts,25,599,10.3
+HIV diagnoses,2016,Massachusetts,25,640,10.9
+HIV diagnoses,2017,Massachusetts,25,602,10.2
+HIV diagnoses,2018,Massachusetts,25,648,10.9
+HIV diagnoses,2019,Massachusetts,25,538,9.1
+HIV diagnoses,2020 (COVID-19 Pandemic),Massachusetts,25,434,7.3
+HIV diagnoses,2021,Massachusetts,25,436,Data not available
+HIV diagnoses,2022,Massachusetts,25,185,Data not available
+HIV diagnoses,2008,Michigan,26,771,9.2
+HIV diagnoses,2009,Michigan,26,802,9.6
+HIV diagnoses,2010,Michigan,26,761,9.2
+HIV diagnoses,2011,Michigan,26,775,9.4
+HIV diagnoses,2012,Michigan,26,782,9.4
+HIV diagnoses,2013,Michigan,26,750,9
+HIV diagnoses,2014,Michigan,26,779,9.3
+HIV diagnoses,2015,Michigan,26,724,8.6
+HIV diagnoses,2016,Michigan,26,745,8.9
+HIV diagnoses,2017,Michigan,26,773,9.2
+HIV diagnoses,2018,Michigan,26,719,8.5
+HIV diagnoses,2019,Michigan,26,674,8
+HIV diagnoses,2020 (COVID-19 Pandemic),Michigan,26,519,6.1
+HIV diagnoses,2021,Michigan,26,634,Data not available
+HIV diagnoses,2022,Michigan,26,446,Data not available
+HIV diagnoses,2008,Minnesota,27,331,7.6
+HIV diagnoses,2009,Minnesota,27,383,8.8
+HIV diagnoses,2010,Minnesota,27,334,7.6
+HIV diagnoses,2011,Minnesota,27,293,6.6
+HIV diagnoses,2012,Minnesota,27,315,7.1
+HIV diagnoses,2013,Minnesota,27,305,6.8
+HIV diagnoses,2014,Minnesota,27,312,6.9
+HIV diagnoses,2015,Minnesota,27,297,6.5
+HIV diagnoses,2016,Minnesota,27,297,6.5
+HIV diagnoses,2017,Minnesota,27,278,6
+HIV diagnoses,2018,Minnesota,27,286,6.1
+HIV diagnoses,2019,Minnesota,27,273,5.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Minnesota,27,229,4.8
+HIV diagnoses,2021,Minnesota,27,298,Data not available
+HIV diagnoses,2022,Minnesota,27,177,Data not available
+HIV diagnoses,2008,Mississippi,28,512,21.4
+HIV diagnoses,2009,Mississippi,28,489,20.4
+HIV diagnoses,2010,Mississippi,28,451,18.6
+HIV diagnoses,2011,Mississippi,28,520,21.3
+HIV diagnoses,2012,Mississippi,28,441,18
+HIV diagnoses,2013,Mississippi,28,472,19.2
+HIV diagnoses,2014,Mississippi,28,471,19.1
+HIV diagnoses,2015,Mississippi,28,502,20.3
+HIV diagnoses,2016,Mississippi,28,424,17.1
+HIV diagnoses,2017,Mississippi,28,429,17.3
+HIV diagnoses,2018,Mississippi,28,475,19.2
+HIV diagnoses,2019,Mississippi,28,471,19
+HIV diagnoses,2020 (COVID-19 Pandemic),Mississippi,28,402,16.2
+HIV diagnoses,2021,Mississippi,28,422,Data not available
+HIV diagnoses,2022,Mississippi,28,253,Data not available
+HIV diagnoses,2008,Missouri,29,542,11
+HIV diagnoses,2009,Missouri,29,520,10.5
+HIV diagnoses,2010,Missouri,29,569,11.4
+HIV diagnoses,2011,Missouri,29,526,10.5
+HIV diagnoses,2012,Missouri,29,530,10.6
+HIV diagnoses,2013,Missouri,29,464,9.2
+HIV diagnoses,2014,Missouri,29,466,9.2
+HIV diagnoses,2015,Missouri,29,461,9.1
+HIV diagnoses,2016,Missouri,29,511,10
+HIV diagnoses,2017,Missouri,29,505,9.9
+HIV diagnoses,2018,Missouri,29,450,8.8
+HIV diagnoses,2019,Missouri,29,487,9.4
+HIV diagnoses,2020 (COVID-19 Pandemic),Missouri,29,359,6.9
+HIV diagnoses,2021,Missouri,29,548,Data not available
+HIV diagnoses,2022,Missouri,29,350,Data not available
+HIV diagnoses,2008,Montana,30,22,2.7
+HIV diagnoses,2009,Montana,30,30,3.7
+HIV diagnoses,2010,Montana,30,20,2.4
+HIV diagnoses,2011,Montana,30,21,2.5
+HIV diagnoses,2012,Montana,30,21,2.5
+HIV diagnoses,2013,Montana,30,22,2.6
+HIV diagnoses,2014,Montana,30,14,1.6
+HIV diagnoses,2015,Montana,30,19,2.2
+HIV diagnoses,2016,Montana,30,20,2.3
+HIV diagnoses,2017,Montana,30,31,3.5
+HIV diagnoses,2018,Montana,30,24,2.7
+HIV diagnoses,2019,Montana,30,25,2.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Montana,30,14,1.5
+HIV diagnoses,2021,Montana,30,22,Data not available
+HIV diagnoses,2022,Montana,30,6,Data not available
+HIV diagnoses,2008,Nebraska,31,97,6.7
+HIV diagnoses,2009,Nebraska,31,108,7.4
+HIV diagnoses,2010,Nebraska,31,115,7.7
+HIV diagnoses,2011,Nebraska,31,79,5.3
+HIV diagnoses,2012,Nebraska,31,81,5.3
+HIV diagnoses,2013,Nebraska,31,81,5.3
+HIV diagnoses,2014,Nebraska,31,87,5.7
+HIV diagnoses,2015,Nebraska,31,80,5.2
+HIV diagnoses,2016,Nebraska,31,74,4.7
+HIV diagnoses,2017,Nebraska,31,87,5.5
+HIV diagnoses,2018,Nebraska,31,77,4.9
+HIV diagnoses,2019,Nebraska,31,81,5.1
+HIV diagnoses,2020 (COVID-19 Pandemic),Nebraska,31,73,4.6
+HIV diagnoses,2021,Nebraska,31,104,Data not available
+HIV diagnoses,2022,Nebraska,31,61,Data not available
+HIV diagnoses,2008,Nevada,32,389,18.4
+HIV diagnoses,2009,Nevada,32,362,16.9
+HIV diagnoses,2010,Nevada,32,370,16.6
+HIV diagnoses,2011,Nevada,32,382,17.1
+HIV diagnoses,2012,Nevada,32,364,16
+HIV diagnoses,2013,Nevada,32,431,18.7
+HIV diagnoses,2014,Nevada,32,429,18.3
+HIV diagnoses,2015,Nevada,32,477,20
+HIV diagnoses,2016,Nevada,32,508,20.9
+HIV diagnoses,2017,Nevada,32,497,20
+HIV diagnoses,2018,Nevada,32,497,19.6
+HIV diagnoses,2019,Nevada,32,518,20
+HIV diagnoses,2020 (COVID-19 Pandemic),Nevada,32,392,14.9
+HIV diagnoses,2021,Nevada,32,500,Data not available
+HIV diagnoses,2022,Nevada,32,363,Data not available
+HIV diagnoses,2008,New Hampshire,33,43,3.8
+HIV diagnoses,2009,New Hampshire,33,38,3.4
+HIV diagnoses,2010,New Hampshire,33,50,4.5
+HIV diagnoses,2011,New Hampshire,33,40,3.5
+HIV diagnoses,2012,New Hampshire,33,48,4.2
+HIV diagnoses,2013,New Hampshire,33,36,3.2
+HIV diagnoses,2014,New Hampshire,33,40,3.5
+HIV diagnoses,2015,New Hampshire,33,25,2.2
+HIV diagnoses,2016,New Hampshire,33,39,3.4
+HIV diagnoses,2017,New Hampshire,33,32,2.7
+HIV diagnoses,2018,New Hampshire,33,38,3.2
+HIV diagnoses,2019,New Hampshire,33,31,2.6
+HIV diagnoses,2020 (COVID-19 Pandemic),New Hampshire,33,33,2.8
+HIV diagnoses,2021,New Hampshire,33,32,Data not available
+HIV diagnoses,2022,New Hampshire,33,22,Data not available
+HIV diagnoses,2008,New Jersey,34,"1,422",19.7
+HIV diagnoses,2009,New Jersey,34,"1,384",19.1
+HIV diagnoses,2010,New Jersey,34,"1,349",18.4
+HIV diagnoses,2011,New Jersey,34,"1,170",15.9
+HIV diagnoses,2012,New Jersey,34,"1,273",17.2
+HIV diagnoses,2013,New Jersey,34,"1,199",16.1
+HIV diagnoses,2014,New Jersey,34,"1,236",16.6
+HIV diagnoses,2015,New Jersey,34,"1,186",15.9
+HIV diagnoses,2016,New Jersey,34,"1,184",15.8
+HIV diagnoses,2017,New Jersey,34,"1,105",14.7
+HIV diagnoses,2018,New Jersey,34,"1,020",13.6
+HIV diagnoses,2019,New Jersey,34,"1,083",14.4
+HIV diagnoses,2020 (COVID-19 Pandemic),New Jersey,34,805,10.7
+HIV diagnoses,2021,New Jersey,34,"1,153",Data not available
+HIV diagnoses,2022,New Jersey,34,709,Data not available
+HIV diagnoses,2008,New Mexico,35,154,9.5
+HIV diagnoses,2009,New Mexico,35,159,9.7
+HIV diagnoses,2010,New Mexico,35,149,8.8
+HIV diagnoses,2011,New Mexico,35,135,7.9
+HIV diagnoses,2012,New Mexico,35,115,6.7
+HIV diagnoses,2013,New Mexico,35,140,8.1
+HIV diagnoses,2014,New Mexico,35,135,7.8
+HIV diagnoses,2015,New Mexico,35,136,7.9
+HIV diagnoses,2016,New Mexico,35,149,8.6
+HIV diagnoses,2017,New Mexico,35,148,8.5
+HIV diagnoses,2018,New Mexico,35,155,8.9
+HIV diagnoses,2019,New Mexico,35,174,9.9
+HIV diagnoses,2020 (COVID-19 Pandemic),New Mexico,35,131,7.4
+HIV diagnoses,2021,New Mexico,35,147,Data not available
+HIV diagnoses,2022,New Mexico,35,30,Data not available
+HIV diagnoses,2008,New York,36,"4,533",27.8
+HIV diagnoses,2009,New York,36,"4,152",25.3
+HIV diagnoses,2010,New York,36,"3,901",23.8
+HIV diagnoses,2011,New York,36,"3,769",22.9
+HIV diagnoses,2012,New York,36,"3,519",21.3
+HIV diagnoses,2013,New York,36,"3,235",19.5
+HIV diagnoses,2014,New York,36,"3,312",19.9
+HIV diagnoses,2015,New York,36,"3,065",18.4
+HIV diagnoses,2016,New York,36,"2,822",16.9
+HIV diagnoses,2017,New York,36,"2,736",16.4
+HIV diagnoses,2018,New York,36,"2,449",14.7
+HIV diagnoses,2019,New York,36,"2,336",14.1
+HIV diagnoses,2020 (COVID-19 Pandemic),New York,36,"1,963",11.9
+HIV diagnoses,2021,New York,36,"2,125",Data not available
+HIV diagnoses,2022,New York,36,"1,354",Data not available
+HIV diagnoses,2008,North Carolina,37,"1,689",22.2
+HIV diagnoses,2009,North Carolina,37,"1,565",20.3
+HIV diagnoses,2010,North Carolina,37,"1,432",18.1
+HIV diagnoses,2011,North Carolina,37,"1,424",17.8
+HIV diagnoses,2012,North Carolina,37,"1,226",15.1
+HIV diagnoses,2013,North Carolina,37,"1,276",15.5
+HIV diagnoses,2014,North Carolina,37,"1,309",15.8
+HIV diagnoses,2015,North Carolina,37,"1,331",15.8
+HIV diagnoses,2016,North Carolina,37,"1,384",16.2
+HIV diagnoses,2017,North Carolina,37,"1,291",14.9
+HIV diagnoses,2018,North Carolina,37,"1,180",13.5
+HIV diagnoses,2019,North Carolina,37,"1,365",15.4
+HIV diagnoses,2020 (COVID-19 Pandemic),North Carolina,37,"1,079",12
+HIV diagnoses,2021,North Carolina,37,"1,389",Data not available
+HIV diagnoses,2022,North Carolina,37,987,Data not available
+HIV diagnoses,2008,North Dakota,38,12,2.2
+HIV diagnoses,2009,North Dakota,38,13,2.4
+HIV diagnoses,2010,North Dakota,38,14,2.5
+HIV diagnoses,2011,North Dakota,38,13,2.3
+HIV diagnoses,2012,North Dakota,38,9,1.5
+HIV diagnoses,2013,North Dakota,38,19,3.2
+HIV diagnoses,2014,North Dakota,38,20,3.3
+HIV diagnoses,2015,North Dakota,38,20,3.2
+HIV diagnoses,2016,North Dakota,38,46,7.4
+HIV diagnoses,2017,North Dakota,38,38,6.1
+HIV diagnoses,2018,North Dakota,38,36,5.8
+HIV diagnoses,2019,North Dakota,38,40,6.4
+HIV diagnoses,2020 (COVID-19 Pandemic),North Dakota,38,36,5.7
+HIV diagnoses,2021,North Dakota,38,37,Data not available
+HIV diagnoses,2022,North Dakota,38,1,Data not available
+HIV diagnoses,2008,Ohio,39,"1,051",11
+HIV diagnoses,2009,Ohio,39,"1,037",10.8
+HIV diagnoses,2010,Ohio,39,982,10.2
+HIV diagnoses,2011,Ohio,39,"1,040",10.8
+HIV diagnoses,2012,Ohio,39,"1,010",10.5
+HIV diagnoses,2013,Ohio,39,"1,036",10.7
+HIV diagnoses,2014,Ohio,39,945,9.7
+HIV diagnoses,2015,Ohio,39,921,9.4
+HIV diagnoses,2016,Ohio,39,954,9.8
+HIV diagnoses,2017,Ohio,39,982,10
+HIV diagnoses,2018,Ohio,39,973,9.9
+HIV diagnoses,2019,Ohio,39,965,9.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Ohio,39,888,9
+HIV diagnoses,2021,Ohio,39,909,Data not available
+HIV diagnoses,2022,Ohio,39,512,Data not available
+HIV diagnoses,2008,Oklahoma,40,286,9.6
+HIV diagnoses,2009,Oklahoma,40,295,9.8
+HIV diagnoses,2010,Oklahoma,40,285,9.3
+HIV diagnoses,2011,Oklahoma,40,312,10
+HIV diagnoses,2012,Oklahoma,40,284,9.1
+HIV diagnoses,2013,Oklahoma,40,331,10.5
+HIV diagnoses,2014,Oklahoma,40,302,9.5
+HIV diagnoses,2015,Oklahoma,40,312,9.7
+HIV diagnoses,2016,Oklahoma,40,293,9.1
+HIV diagnoses,2017,Oklahoma,40,300,9.3
+HIV diagnoses,2018,Oklahoma,40,278,8.5
+HIV diagnoses,2019,Oklahoma,40,336,10.3
+HIV diagnoses,2020 (COVID-19 Pandemic),Oklahoma,40,333,10.1
+HIV diagnoses,2021,Oklahoma,40,383,Data not available
+HIV diagnoses,2022,Oklahoma,40,179,Data not available
+HIV diagnoses,2008,Oregon,41,286,9.1
+HIV diagnoses,2009,Oregon,41,247,7.7
+HIV diagnoses,2010,Oregon,41,238,7.4
+HIV diagnoses,2011,Oregon,41,239,7.3
+HIV diagnoses,2012,Oregon,41,270,8.2
+HIV diagnoses,2013,Oregon,41,229,6.9
+HIV diagnoses,2014,Oregon,41,238,7.1
+HIV diagnoses,2015,Oregon,41,222,6.5
+HIV diagnoses,2016,Oregon,41,228,6.6
+HIV diagnoses,2017,Oregon,41,203,5.8
+HIV diagnoses,2018,Oregon,41,229,6.4
+HIV diagnoses,2019,Oregon,41,199,5.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Oregon,41,180,5
+HIV diagnoses,2021,Oregon,41,199,Data not available
+HIV diagnoses,2022,Oregon,41,183,Data not available
+HIV diagnoses,2008,Pennsylvania,42,"1,752",16.5
+HIV diagnoses,2009,Pennsylvania,42,"1,636",15.3
+HIV diagnoses,2010,Pennsylvania,42,"1,472",13.7
+HIV diagnoses,2011,Pennsylvania,42,"1,364",12.6
+HIV diagnoses,2012,Pennsylvania,42,"1,413",13
+HIV diagnoses,2013,Pennsylvania,42,"1,290",11.9
+HIV diagnoses,2014,Pennsylvania,42,"1,198",11
+HIV diagnoses,2015,Pennsylvania,42,"1,163",10.7
+HIV diagnoses,2016,Pennsylvania,42,"1,127",10.3
+HIV diagnoses,2017,Pennsylvania,42,"1,093",10
+HIV diagnoses,2018,Pennsylvania,42,"1,018",9.3
+HIV diagnoses,2019,Pennsylvania,42,993,9.1
+HIV diagnoses,2020 (COVID-19 Pandemic),Pennsylvania,42,775,7.1
+HIV diagnoses,2021,Pennsylvania,42,913,Data not available
+HIV diagnoses,2022,Pennsylvania,42,595,Data not available
+HIV diagnoses,2008,Rhode Island,44,123,13.8
+HIV diagnoses,2009,Rhode Island,44,117,13.1
+HIV diagnoses,2010,Rhode Island,44,114,12.7
+HIV diagnoses,2011,Rhode Island,44,96,10.7
+HIV diagnoses,2012,Rhode Island,44,79,8.8
+HIV diagnoses,2013,Rhode Island,44,76,8.4
+HIV diagnoses,2014,Rhode Island,44,89,9.8
+HIV diagnoses,2015,Rhode Island,44,64,7
+HIV diagnoses,2016,Rhode Island,44,72,7.9
+HIV diagnoses,2017,Rhode Island,44,86,9.4
+HIV diagnoses,2018,Rhode Island,44,76,8.3
+HIV diagnoses,2019,Rhode Island,44,71,7.8
+HIV diagnoses,2020 (COVID-19 Pandemic),Rhode Island,44,53,5.8
+HIV diagnoses,2021,Rhode Island,44,68,Data not available
+HIV diagnoses,2022,Rhode Island,44,35,Data not available
+HIV diagnoses,2008,South Carolina,45,702,18.8
+HIV diagnoses,2009,South Carolina,45,749,19.8
+HIV diagnoses,2010,South Carolina,45,760,19.7
+HIV diagnoses,2011,South Carolina,45,737,18.9
+HIV diagnoses,2012,South Carolina,45,692,17.6
+HIV diagnoses,2013,South Carolina,45,702,17.6
+HIV diagnoses,2014,South Carolina,45,756,18.7
+HIV diagnoses,2015,South Carolina,45,672,16.3
+HIV diagnoses,2016,South Carolina,45,744,17.8
+HIV diagnoses,2017,South Carolina,45,708,16.7
+HIV diagnoses,2018,South Carolina,45,725,16.9
+HIV diagnoses,2019,South Carolina,45,722,16.6
+HIV diagnoses,2020 (COVID-19 Pandemic),South Carolina,45,655,14.8
+HIV diagnoses,2021,South Carolina,45,663,Data not available
+HIV diagnoses,2022,South Carolina,45,425,Data not available
+HIV diagnoses,2008,South Dakota,46,28,4.2
+HIV diagnoses,2009,South Dakota,46,24,3.6
+HIV diagnoses,2010,South Dakota,46,32,4.8
+HIV diagnoses,2011,South Dakota,46,19,2.8
+HIV diagnoses,2012,South Dakota,46,25,3.7
+HIV diagnoses,2013,South Dakota,46,33,4.8
+HIV diagnoses,2014,South Dakota,46,29,4.2
+HIV diagnoses,2015,South Dakota,46,24,3.4
+HIV diagnoses,2016,South Dakota,46,42,6
+HIV diagnoses,2017,South Dakota,46,41,5.7
+HIV diagnoses,2018,South Dakota,46,29,4
+HIV diagnoses,2019,South Dakota,46,33,4.5
+HIV diagnoses,2020 (COVID-19 Pandemic),South Dakota,46,34,4.6
+HIV diagnoses,2021,South Dakota,46,30,Data not available
+HIV diagnoses,2022,South Dakota,46,23,Data not available
+HIV diagnoses,2008,Tennessee,47,998,19.3
+HIV diagnoses,2009,Tennessee,47,927,17.8
+HIV diagnoses,2010,Tennessee,47,849,16.1
+HIV diagnoses,2011,Tennessee,47,839,15.7
+HIV diagnoses,2012,Tennessee,47,850,15.8
+HIV diagnoses,2013,Tennessee,47,767,14.1
+HIV diagnoses,2014,Tennessee,47,756,13.8
+HIV diagnoses,2015,Tennessee,47,738,13.4
+HIV diagnoses,2016,Tennessee,47,712,12.8
+HIV diagnoses,2017,Tennessee,47,721,12.8
+HIV diagnoses,2018,Tennessee,47,742,13
+HIV diagnoses,2019,Tennessee,47,773,13.4
+HIV diagnoses,2020 (COVID-19 Pandemic),Tennessee,47,647,11.1
+HIV diagnoses,2021,Tennessee,47,831,Data not available
+HIV diagnoses,2022,Tennessee,47,575,Data not available
+HIV diagnoses,2008,Texas,48,"4,165",21.6
+HIV diagnoses,2009,Texas,48,"4,353",22.1
+HIV diagnoses,2010,Texas,48,"4,445",22
+HIV diagnoses,2011,Texas,48,"4,263",20.7
+HIV diagnoses,2012,Texas,48,"4,321",20.6
+HIV diagnoses,2013,Texas,48,"4,332",20.3
+HIV diagnoses,2014,Texas,48,"4,427",20.3
+HIV diagnoses,2015,Texas,48,"4,524",20.4
+HIV diagnoses,2016,Texas,48,"4,532",20
+HIV diagnoses,2017,Texas,48,"4,356",19
+HIV diagnoses,2018,Texas,48,"4,425",19
+HIV diagnoses,2019,Texas,48,"4,342",18.3
+HIV diagnoses,2020 (COVID-19 Pandemic),Texas,48,"3,548",14.8
+HIV diagnoses,2021,Texas,48,"4,349",Data not available
+HIV diagnoses,2022,Texas,48,"2,595",Data not available
+HIV diagnoses,2008,Utah,49,132,6.3
+HIV diagnoses,2009,Utah,49,122,5.7
+HIV diagnoses,2010,Utah,49,83,3.9
+HIV diagnoses,2011,Utah,49,107,5
+HIV diagnoses,2012,Utah,49,121,5.5
+HIV diagnoses,2013,Utah,49,109,4.9
+HIV diagnoses,2014,Utah,49,113,5
+HIV diagnoses,2015,Utah,49,123,5.3
+HIV diagnoses,2016,Utah,49,139,5.9
+HIV diagnoses,2017,Utah,49,113,4.7
+HIV diagnoses,2018,Utah,49,120,4.8
+HIV diagnoses,2019,Utah,49,135,5.3
+HIV diagnoses,2020 (COVID-19 Pandemic),Utah,49,131,5.1
+HIV diagnoses,2021,Utah,49,133,Data not available
+HIV diagnoses,2022,Utah,49,41,Data not available
+HIV diagnoses,2008,Vermont,50,18,3.4
+HIV diagnoses,2009,Vermont,50,17,3.2
+HIV diagnoses,2010,Vermont,50,20,3.7
+HIV diagnoses,2011,Vermont,50,13,2.4
+HIV diagnoses,2012,Vermont,50,14,2.6
+HIV diagnoses,2013,Vermont,50,13,2.4
+HIV diagnoses,2014,Vermont,50,16,3
+HIV diagnoses,2015,Vermont,50,14,2.6
+HIV diagnoses,2016,Vermont,50,5,0.9
+HIV diagnoses,2017,Vermont,50,20,3.7
+HIV diagnoses,2018,Vermont,50,18,3.3
+HIV diagnoses,2019,Vermont,50,11,2
+HIV diagnoses,2020 (COVID-19 Pandemic),Vermont,50,12,2.2
+HIV diagnoses,2021,Vermont,50,13,Data not available
+HIV diagnoses,2022,Vermont,50,3,Data not available
+HIV diagnoses,2008,Virginia,51,"1,054",16.3
+HIV diagnoses,2009,Virginia,51,970,14.8
+HIV diagnoses,2010,Virginia,51,991,14.8
+HIV diagnoses,2011,Virginia,51,894,13.2
+HIV diagnoses,2012,Virginia,51,936,13.7
+HIV diagnoses,2013,Virginia,51,943,13.6
+HIV diagnoses,2014,Virginia,51,898,12.9
+HIV diagnoses,2015,Virginia,51,954,13.6
+HIV diagnoses,2016,Virginia,51,904,12.8
+HIV diagnoses,2017,Virginia,51,865,12.1
+HIV diagnoses,2018,Virginia,51,866,12.1
+HIV diagnoses,2019,Virginia,51,833,11.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Virginia,51,628,8.7
+HIV diagnoses,2021,Virginia,51,792,Data not available
+HIV diagnoses,2022,Virginia,51,582,Data not available
+HIV diagnoses,2008,Washington,53,518,9.5
+HIV diagnoses,2009,Washington,53,517,9.3
+HIV diagnoses,2010,Washington,53,535,9.5
+HIV diagnoses,2011,Washington,53,476,8.4
+HIV diagnoses,2012,Washington,53,494,8.6
+HIV diagnoses,2013,Washington,53,440,7.6
+HIV diagnoses,2014,Washington,53,441,7.5
+HIV diagnoses,2015,Washington,53,448,7.5
+HIV diagnoses,2016,Washington,53,423,6.9
+HIV diagnoses,2017,Washington,53,435,7
+HIV diagnoses,2018,Washington,53,496,7.8
+HIV diagnoses,2019,Washington,53,480,7.5
+HIV diagnoses,2020 (COVID-19 Pandemic),Washington,53,421,6.5
+HIV diagnoses,2021,Washington,53,461,Data not available
+HIV diagnoses,2022,Washington,53,370,Data not available
+HIV diagnoses,2008,West Virginia,54,82,5.3
+HIV diagnoses,2009,West Virginia,54,73,4.7
+HIV diagnoses,2010,West Virginia,54,73,4.6
+HIV diagnoses,2011,West Virginia,54,85,5.4
+HIV diagnoses,2012,West Virginia,54,78,4.9
+HIV diagnoses,2013,West Virginia,54,74,4.7
+HIV diagnoses,2014,West Virginia,54,84,5.3
+HIV diagnoses,2015,West Virginia,54,71,4.5
+HIV diagnoses,2016,West Virginia,54,68,4.3
+HIV diagnoses,2017,West Virginia,54,77,4.9
+HIV diagnoses,2018,West Virginia,54,86,5.6
+HIV diagnoses,2019,West Virginia,54,148,9.6
+HIV diagnoses,2020 (COVID-19 Pandemic),West Virginia,54,139,9.1
+HIV diagnoses,2021,West Virginia,54,148,Data not available
+HIV diagnoses,2022,West Virginia,54,97,Data not available
+HIV diagnoses,2008,Wisconsin,55,238,5.1
+HIV diagnoses,2009,Wisconsin,55,277,5.9
+HIV diagnoses,2010,Wisconsin,55,251,5.3
+HIV diagnoses,2011,Wisconsin,55,238,5
+HIV diagnoses,2012,Wisconsin,55,217,4.5
+HIV diagnoses,2013,Wisconsin,55,243,5.1
+HIV diagnoses,2014,Wisconsin,55,217,4.5
+HIV diagnoses,2015,Wisconsin,55,225,4.6
+HIV diagnoses,2016,Wisconsin,55,229,4.7
+HIV diagnoses,2017,Wisconsin,55,260,5.3
+HIV diagnoses,2018,Wisconsin,55,206,4.2
+HIV diagnoses,2019,Wisconsin,55,212,4.3
+HIV diagnoses,2020 (COVID-19 Pandemic),Wisconsin,55,213,4.3
+HIV diagnoses,2021,Wisconsin,55,254,Data not available
+HIV diagnoses,2022,Wisconsin,55,186,Data not available
+HIV diagnoses,2008,Wyoming,56,21,4.8
+HIV diagnoses,2009,Wyoming,56,20,4.5
+HIV diagnoses,2010,Wyoming,56,19,4.1
+HIV diagnoses,2011,Wyoming,56,15,3.2
+HIV diagnoses,2012,Wyoming,56,7,1.5
+HIV diagnoses,2013,Wyoming,56,16,3.3
+HIV diagnoses,2014,Wyoming,56,10,2.1
+HIV diagnoses,2015,Wyoming,56,17,3.5
+HIV diagnoses,2016,Wyoming,56,21,4.3
+HIV diagnoses,2017,Wyoming,56,10,2.1
+HIV diagnoses,2018,Wyoming,56,12,2.5
+HIV diagnoses,2019,Wyoming,56,13,2.7
+HIV diagnoses,2020 (COVID-19 Pandemic),Wyoming,56,14,2.9
+HIV diagnoses,2021,Wyoming,56,7,Data not available
+HIV diagnoses,2022,Wyoming,56,9,Data not available
