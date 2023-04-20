@@ -1,0 +1,17 @@
+---
+title: "About"
+author: "Jiayi Hu"
+date: "2023-04-20"
+output: html_document
+---
+### Authors
+Jiayi Hu and Can Zhang
+
+### Some facts about HIV
+
+Prevalence: According to the Centers for Disease Control and Prevention (CDC), an estimated 1.2 million people in the United States are living with HIV, and approximately 14% of them are unaware of their infection.                                                    
+
+Risk factors: Certain populations are at higher risk for HIV infection in the United States, including men who have sex with men, people who inject drugs, and people of color. In addition, factors such as poverty, lack of access to healthcare, and stigma can increase the risk of HIV infection.                                                             
+
+Impact: HIV has had a significant impact on public health in the United States. In the early years of the epidemic, there were high levels of illness, death, and stigma associated with HIV. Today, HIV is considered a chronic but manageable condition for many people thanks to advances in treatment and prevention.                                                                
+

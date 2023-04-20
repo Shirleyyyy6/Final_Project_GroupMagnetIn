@@ -10,16 +10,32 @@ library(viridis)
 library(tidyverse)
 library(gt)
 
+mortality <- read_csv("HIV deaths.csv")
 overview <- read_csv("HIV diagnoses.csv")
+
 overview$Geography <- tolower(overview$Geography)
+mortality$Geography <-tolower(mortality$Geography)
+
 # Get the geographic data for the United States at the state level
 us_states <- map_data("state")
 
 overview_map <- 
-  left_join(us_states, overview, by = c("region" = "Geography")) %>%
+  full_join(us_states, overview, by = c("region" = "Geography")) %>%
   group_by(Year,region) %>%
   mutate(text_label = str_c(region, "\nCases: ",Cases,
                             "\nRate(per 100k): ", `Rate per 100000`))
+
+mortality_map <-
+  full_join(us_states, mortality, by = c("region" = "Geography")) %>%
+  group_by(Year,region) %>%
+  mutate(text_label = str_c(region, "\nCases: ",Cases,
+                            "\nRate(per 100k): ", `Rate per 100000`))
+
+overview_map$`Rate per 100000` <- as.numeric(overview_map$`Rate per 100000`)
+mortality_map$`Rate per 100000` <- as.numeric(mortality_map$`Rate per 100000`)
+
+showtext_auto()
+font_add_google("Montserrat", family = "my_font")
 
 
 # Plot the map
@@ -30,17 +46,16 @@ overview.plot <-
   ggplot( aes(x = long, y = lat, group = region, fill = `Rate per 100000`)) +
   geom_polygon(color = "white",aes(text = text_label)) +
   # scale_fill_viridis_d(`Rate per 100000`) +
-  # labs(fill = "Census Data") +
   coord_fixed(1.3) +
   theme_void() +
-  theme(legend.position = 'none')
+  theme(legend.position = 'none') +
+  theme(title = element_text(hjust = 0.5)) +
+  theme(text = element_text(family = "my_font"))
 ggplotly(overview.plot,tooltip = "text")
 }
 create_overview(overview_map,2018)
 
-overview_map$`Rate per 100000` <- as.numeric(overview_map$`Rate per 100000`)
-showtext_auto()
-font_add_google("Montserrat", family = "my_font")
+
 
 overview_barplot <- function(data,year){
   overview.bar <- data %>%
@@ -60,7 +75,6 @@ overview_barplot <- function(data,year){
     theme_minimal()+
     theme(legend.position = 'none') +
     theme(axis.text.x = element_text(angle=45)) + 
-    # scale_colour_viridis_d(option='C') +
     theme(text = element_text(family = "my_font"))
   ggplotly(overview.bar,tooltip="text")
 }
