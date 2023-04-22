@@ -9,6 +9,7 @@ library(showtext)
 library(viridis)
 library(tidyverse)
 library(gt)
+library(extrafont)
 
 mortality <- read_csv("HIV deaths.csv")
 overview <- read_csv("HIV diagnoses.csv")
@@ -36,7 +37,7 @@ mortality_map$`Rate per 100000` <- as.numeric(mortality_map$`Rate per 100000`)
 
 showtext_auto()
 font_add_google("Montserrat", family = "my_font")
-
+font_add_google('Abril Fatface', family ='my_font_title')
 
 # Plot the map
 create_overview <- function(data,year){
@@ -45,14 +46,16 @@ overview.plot <-
   filter(Year==year) %>%
   ggplot( aes(x = long, y = lat, group = region, fill = `Rate per 100000`)) +
   geom_polygon(color = "white",aes(text = text_label)) +
-  # scale_fill_viridis_d(`Rate per 100000`) +
   coord_fixed(1.3) +
-  theme_void() +
+  theme_minimal() +
   theme(legend.position = 'none') +
   theme(title = element_text(hjust = 0.5)) +
-  theme(text = element_text(family = "my_font"))
+  theme(text = element_text(family = "my_font")) +
+  scale_fill_viridis(alpha=0.8,option = 'G') +
+  xlab("longitude") + ylab("latitude")
 ggplotly(overview.plot,tooltip = "text")
 }
+create_overview(overview_map,2008)
 create_overview(overview_map,2018)
 
 
@@ -75,9 +78,11 @@ overview_barplot <- function(data,year){
     theme_minimal()+
     theme(legend.position = 'none') +
     theme(axis.text.x = element_text(angle=45)) + 
-    theme(text = element_text(family = "my_font"))
+    theme(text = element_text(family = "my_font")) +
+    scale_fill_viridis_d(alpha=0.8,option="G")
   ggplotly(overview.bar,tooltip="text")
 }
+overview_barplot(overview_map,2008)
 overview_barplot(overview_map,2018)
 
 overview_table <- function(data,year){
@@ -89,3 +94,19 @@ overview_table <- function(data,year){
     gt()
 }
 overview_table(overview_map,2018)
+
+
+
+
+overview_title <- function(data,year){
+  text <- ifelse(startsWith(deparse(substitute(data)), "overview"),
+                 "morbidity", "mortality")
+  out <- paste("US HIV Map in",as.character(year),"\n(by" , text, ")")
+  text_df <- data.frame(x = 0.5, y = 0.5, label = out)
+
+  ggplot(text_df, aes(x=x,y=y,label = label)) +
+    geom_text(size = 20, family = 'my_font_title') +
+    theme_void()
+}
+overview_title(overview_map,2018)
+
